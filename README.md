@@ -17,4 +17,4 @@ I'm particularly passionate about refining my craft in Software Engineering — 
 
 ### 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&label=Connect)](https://www.linkedin.com/in/your-link-here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&label=Connect)](https://www.linkedin.com/in/andre-butuc)
