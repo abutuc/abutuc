@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hey, I'm André Butuc
 
-<!--
-**abutuc/abutuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently pursuing my Master's in Software Engineering at [FEUP](https://fe.up.pt), where I'm deepening both my technical foundation and collaborative mindset.
 
-Here are some ideas to get you started:
+I'm particularly passionate about refining my craft in Software Engineering — writing clean, purposeful code — while also exploring the exciting intersection of innovation and entrepreneurship.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Focus
+
+- **Software Development Life Cycle (SDLC)** - Requirements Elicitation • Testing and Validation • Software Design and Architecure • Software Maintenance and Evolution • Product Quality Assurance
+- **Back-End Development** – Quarkus • Spring • FastAPI  
+- **Front-End Development** – React • React Native  
+- **Project Management** - Agile / Scrum methodologies • Team leadership & mentoring • Jira & GitHub Projects • Effective communication
+
+---
+
+### 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&label=Connect)](https://www.linkedin.com/in/your-link-here)
