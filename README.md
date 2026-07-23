@@ -14,7 +14,7 @@
 
 I came up as a software engineer. Then I watched an LLM solve a real problem in an afternoon, and I couldn't stop thinking about it.
 
-I'm from Porto 🇵🇹 and I just finished my Master's in Software Engineering at [FEUP](https://fe.up.pt). My dissertation got a 19/20. In August I start as an AI Engineer at Upgraide, where I'll help companies put LLMs, RAG pipelines and MCP integrations into production systems that hold up beyond the demo.
+I'm from Aveiro 🇵🇹 and I just finished my Master's in Software Engineering at [FEUP](https://fe.up.pt). My dissertation got a 19/20. In August I start as an AI Engineer at Upgraide, where I'll help companies put LLMs, RAG pipelines and MCP integrations into production systems that hold up beyond the demo.
 
 ## What I've been building
 
