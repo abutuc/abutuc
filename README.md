@@ -12,41 +12,41 @@
 
 </div>
 
-I came up as a software engineer. Then I watched an LLM solve a real problem in an afternoon — and I couldn't stop thinking about it.
+I came up as a software engineer. Then I watched an LLM solve a real problem in an afternoon, and I couldn't stop thinking about it.
 
-I'm from Porto 🇵🇹, just wrapped up my Master's in Software Engineering at [FEUP](https://fe.up.pt) (dissertation graded 19/20), and in August I'm joining **Upgraide** as an **AI Engineer** — helping companies get LLMs, RAG and MCP into production systems that hold up beyond the demo.
+I'm from Porto 🇵🇹 and I just finished my Master's in Software Engineering at [FEUP](https://fe.up.pt). My dissertation got a 19/20. In August I start as an AI Engineer at Upgraide, where I'll help companies put LLMs, RAG pipelines and MCP integrations into production systems that hold up beyond the demo.
 
-## 🔬 What I've been building
+## What I've been building
 
-| | Project | The short version | Stack |
-|---|---|---|---|
-| 🎓 | **Master's Dissertation** | A non-intrusive pipeline + RAG chatbot that rescues the knowledge software teams lose in scattered dev artefacts. Validated with 14 engineers at Critical Techworks: **86.3/100 SUS**, 85.7% would adopt it daily. | Python · LLMs · RAG · Qdrant · AWS |
-| 🏆 | [**kurz**](https://github.com/abutuc/kurz) | Finds a film's emotional peaks from its subtitles and pulls the clips automatically. **Hackathon winner** — the Joyn streaming team said they'd use it in their brainstorming sessions. | Python · Hugging Face · React |
-| 🧾 | [**SmartExpense+**](https://github.com/abutuc/archive-university-of-porto/tree/main/0Highlighted%20Projects/project-management-innovation-entrepreneurship) | Travel expense reports that fill themselves in from a photo of the receipt — OCR + field extraction, human-in-the-loop by design. Deployed by INOVA+ as a working prototype. | FastAPI · OCR · React · Docker |
-| 🕳️ | [**Tapa-Buracos!**](https://github.com/abutuc/archive-university-of-porto/tree/main/0Highlighted%20Projects/software-engineering-lab-project) | Citizens report potholes in seconds; municipalities get a triageable queue with a live status thread. One Flutter codebase, both platforms. | .NET · Flutter · Firebase |
+| Project | The short version | Stack |
+|---|---|---|
+| **Master's Dissertation** | A pipeline and RAG chatbot that recover the knowledge software teams lose in scattered dev artefacts. 14 engineers at Critical Techworks tested it: 86.3/100 on the System Usability Scale, and 85.7% said they'd use it daily. | Python · LLMs · RAG · Qdrant · AWS |
+| [**kurz**](https://github.com/abutuc/kurz) | Finds a film's emotional peaks from its subtitles and pulls the clips automatically. Won its hackathon. The Joyn streaming team said they'd use it in their next brainstorming sessions. | Python · Hugging Face · React |
+| [**SmartExpense+**](https://github.com/abutuc/archive-university-of-porto/tree/main/0Highlighted%20Projects/project-management-innovation-entrepreneurship) | Travel expense reports that fill themselves in from a photo of the receipt. OCR reads the receipt, the user confirms the extracted fields before anything is filed. INOVA+ deployed it on their own infrastructure. | FastAPI · OCR · React · Docker |
+| [**Tapa-Buracos!**](https://github.com/abutuc/archive-university-of-porto/tree/main/0Highlighted%20Projects/software-engineering-lab-project) | Citizens report potholes in seconds and the municipality gets a queue it can actually triage, with a status thread both sides can follow. One Flutter codebase for iOS and Android. | .NET · Flutter · Firebase |
 
-More in my [university archive](https://github.com/abutuc?tab=repositories) — highlighted projects from Aveiro and Porto.
+There's more in my [university archive repos](https://github.com/abutuc?tab=repositories), where I keep the projects from Aveiro and Porto worth a look.
 
-## 🧰 The toolkit
+## The toolkit
 
-**AI Engineering** — LLM integration (multi-provider) · RAG pipelines & vector DBs (Qdrant) · Prompt engineering & evaluation · Agentic workflows & MCP
+**AI engineering**: LLM integration across providers, RAG pipelines with Qdrant, prompt engineering and evaluation, agentic workflows with MCP.
 
-**Backend** — Java (Quarkus) · Python (FastAPI) · PostgreSQL · Kafka · Docker · Kubernetes · CI/CD
+**Backend**: Java with Quarkus, Python with FastAPI, PostgreSQL, Kafka, Docker, Kubernetes.
 
-**Frontend** — React · React Native · Flutter · TailwindCSS
+**Frontend**: React, React Native, Flutter, TailwindCSS.
 
-**The rest of the craft** — Requirements elicitation · Design & architectural patterns · Testing & QA · Agile/Scrum · Leading and mentoring
+**The rest of the craft**: requirements elicitation, design and architectural patterns, testing, Agile/Scrum, mentoring.
 
-## ✍️ Writing
+## Writing
 
-Things I'm learning as I move from software engineering into AI, written in public — mostly for myself: [andrebutuc.me/writing](https://www.andrebutuc.me/writing)
+I write about what I'm learning as I move from software engineering into AI, mostly for myself, at [andrebutuc.me/writing](https://www.andrebutuc.me/writing).
 
-Latest: [*How my internship got me hooked on AI*](https://www.andrebutuc.me/writing/how-my-internship-got-me-hooked-on-ai)
+Latest post: [How my internship got me hooked on AI](https://www.andrebutuc.me/writing/how-my-internship-got-me-hooked-on-ai)
 
 ---
 
 <div align="center">
 
-*If you're building something interesting or just want to talk shop, I'd like to hear from you.* → [andre.butuc@gmail.com](mailto:andre.butuc@gmail.com)
+If you're building something interesting or just want to talk shop, I'd like to hear from you: [andre.butuc@gmail.com](mailto:andre.butuc@gmail.com)
 
 </div>
